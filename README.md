@@ -1,2 +1,2 @@
 # CYB101
-Group Capstone - Phishing Attacks
+CodePath Intro to Cybersecurity
