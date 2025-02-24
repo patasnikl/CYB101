@@ -1,2 +1,2 @@
 # CYB101
-CodePath Intro to Cybersecurity
+CodePath | Intro to Cybersecurity
